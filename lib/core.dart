@@ -1,0 +1,12 @@
+export 'package:flutter/material.dart';
+export 'package:get/get.dart';
+export 'package:ids_mini_app/module/picture/binding/picture_binding.dart' ;
+export 'package:ids_mini_app/module/picture/view/detail_picture_view.dart' ;
+export 'package:ids_mini_app/module/picture/view/list_picture_view.dart' ;
+export 'package:ids_mini_app/module/picture/controllers/detail_picture_controller.dart' ;
+export 'package:ids_mini_app/module/picture/controllers/list_picture_controller.dart' ;
+export 'package:ids_mini_app/module/picture/widget/detail_content_widget.dart' ;
+export 'package:ids_mini_app/module/picture/widget/list_content_widget.dart' ;
+export 'package:ids_mini_app/routes/app_pages.dart' ;
+export 'package:ids_mini_app/shared/widget/loading_widget.dart' ;
+export 'package:ids_mini_app/services/picture/picture_service.dart' ;
